@@ -9,14 +9,6 @@
 </a> </div> <br>
 
 <br>
-<div align="center">
-  <h3> Certificados 📑 </h3>
-  <br>
-  <img height="297em" width="210em" src="https://www.fondosimagenes.com/wp-content/uploads/2021/12/Poster-tamanho-A4-21-x-297-cm.jpg"/>
-  <img height="297em" width="210em" src="https://www.fondosimagenes.com/wp-content/uploads/2021/12/Poster-tamanho-A4-21-x-297-cm.jpg"/>
-  <img height="297em" width="210em" src="https://www.fondosimagenes.com/wp-content/uploads/2021/12/Poster-tamanho-A4-21-x-297-cm.jpg"/>
-</div>
-<hr>
 
 <div align="center">
   <h3 align="center"> Minhas redes sociais 🌗</h3>
