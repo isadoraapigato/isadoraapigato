@@ -23,8 +23,3 @@
   <a href="https://open.spotify.com/user/vgmnk0v53xtcwg3zechhfs70j?si=umhWNBeCS8ik7k5Ht8QwUQ&nd=1"><img src="https://img.shields.io/badge/Spotify-black?style=for-the-badge&logo=spotify&logoColor=dark_green"/></a>
   <a href="https://vm.tiktok.com/ZMLGh1frT/"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 </div>
-  
-<div align="center">
-  
-  ![snake game](https://github.com/isadoraapigato/isadoraapigato/blob/output/github-contribution-grid-snake.svg)
-</div>
