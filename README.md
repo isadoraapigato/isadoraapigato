@@ -8,8 +8,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoraavelhow&theme=dracula&layout=compact&locale=pt-br&title_color=FFFFFF&text__color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,CB5FCE,4169E1"/>
 </a> </div> <br>
 
-<br>
-
 <div align="center">
   <h3 align="center"> Minhas redes sociais 🌗</h3>
   <a href="https://www.youtube.com/channel/UCIGbJDhciBHXcmFrdDpyufA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
